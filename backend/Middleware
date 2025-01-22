@@ -1,0 +1,2 @@
+// Middleware
+app.use(express.json());
